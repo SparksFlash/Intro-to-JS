@@ -1,19 +1,16 @@
-var price = 35;
-// price = price + 10;
-price += 10; // price = price + 10;
-// console.log(price);
+// String
+var name = "Sadar Uddin";
+var address = "Adar killa bandorban with Some katabon";
+var country = 'Bangladesh';
 
-var fridge = 35000;
-// fridge = fridge - 1000;
-fridge -= 1000;
-// console.log(fridge);
+// boolean
+var isRich = true;
 
-// multiply 
-var orangePrice = 30;
-// orangePrice = orangePrice * 3;
-orangePrice *= 3;
-console.log(orangePrice);
+var passed = false;
+console.log(passed);
+console.log(typeof passed);
+console.log(typeof country);
 
-//\\
-
-//--------------------------
+// number
+var price = 555;
+console.log(typeof price);
